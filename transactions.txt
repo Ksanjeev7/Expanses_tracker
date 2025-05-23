@@ -1,0 +1,9 @@
+income,Salary,5000.00,2025-01-01,May salary
+expense,Rent,1200.00,2025-01-01,Apartment rent
+expense,Food,50.75,2025-01-05,Groceries
+expense,Travel,30.50,2025-01-15,Bus fare
+income,Business,200.00,2025-03-10,Freelance work
+income,Salary,16000.00,2025-05-23,Salary Amount
+income,Business,50000.00,2025-05-23,Bussiness Amount In construction
+income,Salary,25000.00,2025-05-23,My First Salary
+income,Salary,16000.00,2025-05-23,My Salary
